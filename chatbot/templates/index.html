@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chatbot</title>
+    {% load static %}
+    <link rel="stylesheet" href="{% static 'css/style.css' %}">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.css">
+    <style>
+        @keyframes gradient-text {
+            0% { color: #e3dece; }
+            50% { color: #e47dd7; }
+            100% { color: #f688f0; }
+        }
+
+        #chat-icon p {
+            animation: gradient-text 4s infinite;
+        }
+    </style>
+</head>
+<body>
+    <div class="container1">
+        <span class="welcome">Welcome in</span>
+        <span class="muzile">Prince Solutions ChatSupport</span>
+    </div>
+    <div class="container">
+        <div class="chatbox">
+            <div class="chatbox__support">
+                <div class="chatbox__header">
+                    <div class="chatbox__image--header">
+                        <img src="https://img.icons8.com/color/48/000000/circled-user-female-skin-type-5--v1.png" alt="image">
+                    </div>
+                    <div class="chatbox__content--header">
+                        <h4 class="chatbox__heading--header">Chat support</h4>
+                        <p class="chatbox__description--header">Hi. Welcome to Prince Solution. How can I help you?</p>
+                    </div>
+                </div>
+                <div class="chatbox__messages">
+                    <div></div>
+                </div>
+                <div class="chatbox__footer">
+                    <input type="text" placeholder="Write a message...">
+                    <button class="chatbox__send--footer send__button"><i class="bi bi-telegram"></i> Send</button>
+                </div>
+            </div>
+            <div class="chatbox__button" id="chat-icon">
+                <button><img src="{% static 'images/icon.png' %}" /></button>
+                <p>Click Here!</p>
+            </div>
+        </div>
+    </div>
+    <script src="{% static 'js/app.js' %}"></script>
+</body>
+</html>
+<script>
+    function getCookie(name) {
+        let cookieValue = null;
+        if (document.cookie && document.cookie !== '') {
+            const cookies = document.cookie.split(';');
+            for (let i = 0; i < cookies.length; i++) {
+                const cookie = cookies[i].trim();
+                if (cookie.substring(0, name.length + 1) === (name + '=')) {
+                    cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+                    break;
+                }
+            }
+        }
+        return cookieValue;
+    }
+
+    const csrftoken = getCookie('csrftoken');
+
+    function csrfSafeMethod(method) {
+        return (/^(GET|HEAD|OPTIONS|TRACE)$/.test(method));
+    }
+
+    $.ajaxSetup({
+        beforeSend: function(xhr, settings) {
+            if (!csrfSafeMethod(settings.type) && !this.crossDomain) {
+                xhr.setRequestHeader("X-CSRFToken", csrftoken);
+            }
+        }
+    });
+</script>
