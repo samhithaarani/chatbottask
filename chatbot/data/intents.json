@@ -3,7 +3,7 @@
       {
          "tag": "greetings",
          "patterns": ["Hi there", "How are you", "Is anyone there ", "Hey", "Hello", "Good day"],
-         "responses": ["Hello  Welcome to Prince Solutions. How can we help you today ", "Good day  How may I help you at Prince Solutions ", "Hi there  How can we support you at Prince Solutions "]
+         "responses": ["Hello  Welcome to Sam Solutions. How can we help you today ", "Good day  How may I help you at Sam Solutions ", "Hi there  How can we support you at Sam Solutions "]
 
       },
       {
@@ -25,7 +25,7 @@
       {
          "tag": "software_development",
          "patterns": ["I need software development services", "Software development", "Developing custom software", "Creating applications"],
-         "responses": ["We specialize in custom software development tailored to your business needs. How can we guide you further ","You have need Consultant from Prince Solutions and We provide you best service"]
+         "responses": ["We specialize in custom software development tailored to your business needs. How can we guide you further ","You have need Consultant from Sam Solutions and We provide you best service"]
 
       },
       {
@@ -60,75 +60,75 @@
       {
          "tag": "career",
          "patterns": ["Job opportunities", "Careers", "Work with us", "Join our team"],
-         "responses": ["Explore career opportunities at Prince Solutions. ","Visit our careers page for more information.", "Interested in joining Prince Solutions  Discover exciting career opportunities on our website ", "Prince Solutions is always looking for talented individuals to join the team."," Check out our careers page for current openings."]
+         "responses": ["Explore career opportunities at Sam Solutions. ","Visit our careers page for more information.", "Interested in joining Sam Solutions  Discover exciting career opportunities on our website ", "Sam Solutions is always looking for talented individuals to join the team."," Check out our careers page for current openings."]
       },
       {
          "tag": "career_options",
          "patterns": ["Software Engineer", "Data Scientist", "UX/UI Designer", "Product Manager", "Cybersecurity Analyst", "Network Administrator"],
-         "responses": ["Prince Solutions has openings for Software Engineer positions where you can develop cutting-edge software solutions.", "Join Prince Solutions as a Data Scientist and work on exciting data-driven projects.", "Explore opportunities at Prince Solutions as a UX/UI Designer to create intuitive and engaging user experiences.", "Join Prince Solutions as a Product Manager and drive the development of innovative products.", "Prince Solutions is looking for Cybersecurity Analysts to ensure the security of systems and data.", "Join Prince Solutions as a Network Administrator and maintain network infrastructure to keep operations running smoothly."]
+         "responses": ["Sam Solutions has openings for Software Engineer positions where you can develop cutting-edge software solutions.", "Join Sam Solutions as a Data Scientist and work on exciting data-driven projects.", "Explore opportunities at Sam Solutions as a UX/UI Designer to create intuitive and engaging user experiences.", "Join Sam Solutions as a Product Manager and drive the development of innovative products.", "Sam Solutions is looking for Cybersecurity Analysts to ensure the security of systems and data.", "Join Sam Solutions as a Network Administrator and maintain network infrastructure to keep operations running smoothly."]
       },
       {
          "tag": "why_choose_us",
-         "patterns": ["Why choose Prince Solutions ", "Reasons to work with us", "Advantages of Prince Solutions", "What sets Prince Solutions apart ", "Why Prince Solutions ", "Why us "],
-         "responses": ["At Prince Solutions, we are committed to excellence in everything we do. Here are some reasons to choose us:\n1. Expertise: Our team comprises skilled professionals with extensive experience in their respective fields.\n2. Innovation: We thrive on innovation and continuously explore new technologies to deliver cutting-edge solutions.\n3. Collaboration: We foster a collaborative work environment where every team member's input is valued.\n5. Client Satisfaction: We prioritize client satisfaction and strive to exceed expectations with every project.\n6. Culture: Our company culture promotes inclusivity, creativity, and a healthy work-life balance."]
+         "patterns": ["Why choose Sam Solutions ", "Reasons to work with us", "Advantages of Sam Solutions", "What sets Sam Solutions apart ", "Why Sam Solutions ", "Why us "],
+         "responses": ["At Sam Solutions, we are committed to excellence in everything we do. Here are some reasons to choose us:\n1. Expertise: Our team comprises skilled professionals with extensive experience in their respective fields.\n2. Innovation: We thrive on innovation and continuously explore new technologies to deliver cutting-edge solutions.\n3. Collaboration: We foster a collaborative work environment where every team member's input is valued.\n5. Client Satisfaction: We prioritize client satisfaction and strive to exceed expectations with every project.\n6. Culture: Our company culture promotes inclusivity, creativity, and a healthy work-life balance."]
       },
       {
          "tag": "tools_technology",
-         "patterns": ["Tools and technology used at Prince Solutions", "What technologies does Prince Solutions work with ", "Tech stack at Prince Solutions", "What tools are used at Prince Solutions ", "Which technologies are utilized at Prince Solutions "],
-         "responses": ["Prince Solutions utilizes a diverse range of tools and technologies to deliver top-notch solutions. The technologies we work with include:\n- Programming Languages: Java, Python, JavaScript, C#, Swift\n- Web Development: HTML, CSS, JavaScript, React, Angular, Vue.js - Mobile Development: Android (Kotlin, Java), iOS (Swift, Objective-C) - Database Management: MySQL, MongoDB, Redis - Cloud Services: AWS, Azure, Google Cloud Platform\n- DevOps: Docker, Kubernetes, Jenkins, Git\n- Data Science: TensorFlow, PyTorch, scikit-learn\n- Cybersecurity: SIEM tools, penetration testing frameworks\nThis is just a glimpse of our tech stack. We continuously evaluate and adopt new technologies to stay ahead in the industry."]
+         "patterns": ["Tools and technology used at Sam Solutions", "What technologies does Sam Solutions work with ", "Tech stack at Sam Solutions", "What tools are used at Sam Solutions ", "Which technologies are utilized at Sam Solutions "],
+         "responses": ["Sam Solutions utilizes a diverse range of tools and technologies to deliver top-notch solutions. The technologies we work with include:\n- Programming Languages: Java, Python, JavaScript, C#, Swift\n- Web Development: HTML, CSS, JavaScript, React, Angular, Vue.js - Mobile Development: Android (Kotlin, Java), iOS (Swift, Objective-C) - Database Management: MySQL, MongoDB, Redis - Cloud Services: AWS, Azure, Google Cloud Platform\n- DevOps: Docker, Kubernetes, Jenkins, Git\n- Data Science: TensorFlow, PyTorch, scikit-learn\n- Cybersecurity: SIEM tools, penetration testing frameworks\nThis is just a glimpse of our tech stack. We continuously evaluate and adopt new technologies to stay ahead in the industry."]
 
       },
       {
          "tag": "brands_worked_with",
-         "patterns": ["Brands Prince Solutions has worked with", "Clients of Prince Solutions", "Companies partnered with Prince Solutions", "List of clients", "Who are your clients ", "Tell me about your past clients"],
-         "responses": ["Prince Solutions has had the privilege of working with a diverse range of brands across various industries. Some of our notable clients include: [List of brands]", "Our client list includes renowned brands spanning different sectors. We take pride in delivering exceptional solutions to each of ,them.", "We've partnered with leading companies across the globe to deliver innovative solutions and drive digital transformation."]
+         "patterns": ["Brands Sam Solutions has worked with", "Clients of Sam Solutions", "Companies partnered with Sam Solutions", "List of clients", "Who are your clients ", "Tell me about your past clients"],
+         "responses": ["Sam Solutions has had the privilege of working with a diverse range of brands across various industries. Some of our notable clients include: [List of brands]", "Our client list includes renowned brands spanning different sectors. We take pride in delivering exceptional solutions to each of ,them.", "We've partnered with leading companies across the globe to deliver innovative solutions and drive digital transformation."]
 
       },
       {
          "tag": "vision",
-         "patterns": ["Prince Solutions vision", "Company vision", "What is the vision of Prince Solutions ", "Tell me about your vision", "What do you aspire to achieve ", "Describe your vision"],
-         "responses": ["The vision of Prince Solutions is to be a leading provider of innovative technology solutions, empowering businesses to thrive in the digital age.", "Our vision at Prince Solutions is to revolutionize the tech industry by providing cutting-edge solutions that transform businesses and empower individuals."]
+         "patterns": ["Sam Solutions vision", "Company vision", "What is the vision of Sam Solutions ", "Tell me about your vision", "What do you aspire to achieve ", "Describe your vision"],
+         "responses": ["The vision of Sam Solutions is to be a leading provider of innovative technology solutions, empowering businesses to thrive in the digital age.", "Our vision at Sam Solutions is to revolutionize the tech industry by providing cutting-edge solutions that transform businesses and empower individuals."]
 
       },
       {
          "tag": "MVP",
          "patterns": ["what is MVP","mvp","Minimum viable product"],
-         "responses": ["Develop the MVP of your product with our unbeatable talent","At Prince Solutions, we offer many MVP development services to help startups and established businesses launch their products quickly and efficiently.","Our services include MVP ideation, research, design, development, testing, and launch. We also provide ongoing support and product updates to ensure the success and growth of your product.","We specialize in developing MVPs for mobile apps, using the latest technologies to create scalable, fast, and user-friendly apps. Never doubt the strength of utilizing an MVP in app development."]
+         "responses": ["Develop the MVP of your product with our unbeatable talent","At Sam Solutions, we offer many MVP development services to help startups and established businesses launch their products quickly and efficiently.","Our services include MVP ideation, research, design, development, testing, and launch. We also provide ongoing support and product updates to ensure the success and growth of your product.","We specialize in developing MVPs for mobile apps, using the latest technologies to create scalable, fast, and user-friendly apps. Never doubt the strength of utilizing an MVP in app development."]
 
       },
       {
          "tag": "satisfaction",
          "patterns": ["importance of Client satisfaction","satisfaction","Client"],
-         "responses": ["We belive Client is Superior of any Project.","Our Client is God of us and God is always happy with our Product.","Client Satisfaction is Top Priority in Prince Solutions"]
+         "responses": ["We belive Client is Superior of any Project.","Our Client is God of us and God is always happy with our Product.","Client Satisfaction is Top Priority in Sam Solutions"]
 
       },
       {
          "tag": "AI",
-         "patterns":["AI Responsive ","AI","Artificial Intelligence","Lab", "Prince Solutions lab"],
+         "patterns":["AI Responsive ","AI","Artificial Intelligence","Lab", "Sam Solutions lab"],
          "responses":["AI Responsive Gallery Album is a state of the art WordPress Gallery Plugin , you can use it to create, manage and handle image galleries easily in your WordPress backend and present images to your website visitors.","As traditional version of twitter API is no longer working now, this plugin provides facility to display twitter tweets on your website using Twitter 1.1 API with authentication."]
       },
       {
          "tag": "mission",
-         "patterns": ["Prince Solutions mission", "Company mission", "What is the mission of Prince Solutions ", "Tell me about your mission", "What goals do you strive to achieve ", "Describe your mission"],
-         "responses": ["The mission of Prince Solutions is to deliver exceptional value to our clients by leveraging technology, fostering innovation, and cultivating talent.", "At Prince Solutions, our mission is to drive positive change through technology by delivering innovative solutions that exceed client expectations."]
+         "patterns": ["Sam Solutions mission", "Company mission", "What is the mission of Sam Solutions ", "Tell me about your mission", "What goals do you strive to achieve ", "Describe your mission"],
+         "responses": ["The mission of Sam Solutions is to deliver exceptional value to our clients by leveraging technology, fostering innovation, and cultivating talent.", "At Sam Solutions, our mission is to drive positive change through technology by delivering innovative solutions that exceed client expectations."]
 
       },
       {
          "tag": "culture",
-         "patterns": ["Prince Solutions culture", "Company culture", "What is the culture like at Prince Solutions ", "Tell me about your workplace culture", "What values do you prioritize ", "Describe your company culture"],
-         "responses": ["At Prince Solutions, we foster a culture of inclusively, collaboration, and continuous learning."," We believe in empowering our employees and promoting a healthy work-life balance.", "Our workplace culture at Prince Solutions is built on trust, respect, and innovation. We encourage creativity and celebrate diversity."]
+         "patterns": ["Sam Solutions culture", "Company culture", "What is the culture like at Sam Solutions ", "Tell me about your workplace culture", "What values do you prioritize ", "Describe your company culture"],
+         "responses": ["At Sam Solutions, we foster a culture of inclusively, collaboration, and continuous learning."," We believe in empowering our employees and promoting a healthy work-life balance.", "Our workplace culture at Sam Solutions is built on trust, respect, and innovation. We encourage creativity and celebrate diversity."]
 
       },
       {
          "tag": "expertise",
-         "patterns": ["Prince Solutions expertise", "Company expertise", "What expertise does Prince Solutions offer ", "Tell me about your expertise", "What are your core competencies ", "Describe your areas of expertise"],
-         "responses": ["Prince Solutions specializes in providing cutting-edge solutions in areas such as software development, data science, UX/UI design, cybersecurity, and more.", "With expertise in diverse domains, Prince Solutions delivers tailored solutions to meet the unique needs of each client."]
+         "patterns": ["Sam Solutions expertise", "Company expertise", "What expertise does Sam Solutions offer ", "Tell me about your expertise", "What are your core competencies ", "Describe your areas of expertise"],
+         "responses": ["Sam Solutions specializes in providing cutting-edge solutions in areas such as software development, data science, UX/UI design, cybersecurity, and more.", "With expertise in diverse domains, Sam Solutions delivers tailored solutions to meet the unique needs of each client."]
 
       },
       {
          "tag": "Prince_nurture_program",
-         "patterns": ["Prince Solutions Nurture Program", "What is the Prince Nurture Program ", "Tell me about your employee development program", "Describe your training initiatives", "What opportunities do you offer for employee growth ", "Explain your talent development program"],
-         "responses": ["The Prince Nurture Program is an initiative designed to nurture and develop talent within the organization. It provides training, mentorship, and career development opportunities to employees.", "At Prince Solutions, we believe in investing in our employees' growth. The Prince Nurture Program offers comprehensive training and mentorship to help individuals reach their full potential."]
+         "patterns": ["Sam Solutions Nurture Program", "What is the Prince Nurture Program ", "Tell me about your employee development program", "Describe your training initiatives", "What opportunities do you offer for employee growth ", "Explain your talent development program"],
+         "responses": ["The Prince Nurture Program is an initiative designed to nurture and develop talent within the organization. It provides training, mentorship, and career development opportunities to employees.", "At Sam Solutions, we believe in investing in our employees' growth. The Prince Nurture Program offers comprehensive training and mentorship to help individuals reach their full potential."]
 
       },
       {
@@ -139,14 +139,14 @@
       },
       {
          "tag": "csr_activity_stray_dogs",
-         "patterns": ["CSR activity for feeding stray dogs", "What CSR activities does Prince Solutions participate in ", "Tell me about your corporate social responsibility initiatives", "What community service programs do you run ", "Describe your CSR activities", "How do you give back to the community "],
-         "responses": ["Prince Solutions is committed to giving back to the community. One of our CSR activities includes feeding and caring for stray dogs in our locality.", "Our CSR initiatives at Prince Solutions aim to make a positive impact on society. Feeding stray dogs is just one of the many ways we contribute to our community."]
+         "patterns": ["CSR activity for feeding stray dogs", "What CSR activities does Sam Solutions participate in ", "Tell me about your corporate social responsibility initiatives", "What community service programs do you run ", "Describe your CSR activities", "How do you give back to the community "],
+         "responses": ["Sam Solutions is committed to giving back to the community. One of our CSR activities includes feeding and caring for stray dogs in our locality.", "Our CSR initiatives at Sam Solutions aim to make a positive impact on society. Feeding stray dogs is just one of the many ways we contribute to our community."]
 
       },
       {
          "tag": "testimonials",
-         "patterns": ["Testimonials about Prince Solutions", "What do clients say about Prince Solutions ", "Customer reviews for Prince Solutions", "Tell me about client experiences with Prince Solutions", "Share some feedback from your clients", "What are clients saying about you "],
-         "responses": ["Don't just take our word for it  Hear what our clients have to say about their experience working with Prince Solutions.", "Client satisfaction is our priority at Prince Solutions. Read what our clients have to say about their experiences with us."]
+         "patterns": ["Testimonials about Sam Solutions", "What do clients say about Sam Solutions ", "Customer reviews for Sam Solutions", "Tell me about client experiences with Sam Solutions", "Share some feedback from your clients", "What are clients saying about you "],
+         "responses": ["Don't just take our word for it  Hear what our clients have to say about their experience working with Sam Solutions.", "Client satisfaction is our priority at Sam Solutions. Read what our clients have to say about their experiences with us."]
 
       },
       {
